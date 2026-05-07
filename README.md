@@ -1,4 +1,4 @@
-# 🧹 HostelApp — Sistema de Gestão de Hotel
+# 🏨 HostelApp — Sistema de Gestão de Hotel
 
 Interface moderna e completa para gerenciar agendamentos, clientes e profissionais de Hotéis.
 
